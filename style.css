@@ -1,0 +1,47 @@
+h3{
+    color: blue;
+}
+h1{
+    color: lightgreen;
+    text-align: center;
+}
+p{
+    color: red;
+}
+
+#main-content{
+    border: thick solid black;
+    border-radius: 25px;
+    background-color: gray;
+}
+
+#lie{
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: lightgrey;
+    text-align: center;
+    float: left;
+    width: 33%;
+}
+
+#truth{
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: lightgrey;
+    text-align: center;
+    float: left;
+    width: 33%;
+}
+
+#truth2{
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: lightgrey;
+    text-align: center;
+    float: left;
+    width: 33%;
+}
+
+.flex-display {
+    display: flex;
+}
